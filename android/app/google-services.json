@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "166338426607",
+    "project_id": "hrm-48823",
+    "storage_bucket": "hrm-48823.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166338426607:android:3ee7c9a2037cb16ec54d1a",
+        "android_client_info": {
+          "package_name": "tuananh.HRM"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIXgH0Ut9VsPGelg9xfXyGOB7SYvOEHdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

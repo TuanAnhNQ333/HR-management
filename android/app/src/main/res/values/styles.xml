@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id">your_web_client_id</string>
+    <string name="ga_trackingId">your_tracking_id</string>
+    <string name="firebase_database_url">your_database_url</string>
+    <string name="google_api_key">your_api_key</string>
+    <string name="google_app_id">your_app_id</string>
+    <string name="google_crash_reporting_api_key">your_crash_api_key</string>
+</resources>

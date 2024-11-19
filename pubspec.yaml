@@ -1,0 +1,42 @@
+name: hrm_app
+description: "A new Flutter project."
+
+publish_to: 'none' # Để giữ dự án ở chế độ private, không xuất bản lên pub.dev.
+
+# Phiên bản ứng dụng
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.19.0 <4.0.0"
+  flutter: ">=3.3.0"
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^3.8.0
+  firebase_messaging: ^15.1.5
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  # Cấu hình tài sản (assets)
+  assets:
+    - assets/
+    # Uncomment and add các tài sản cụ thể khi cần.
+    # - assets/images/
+    # - assets/icons/
+
+  # Cấu hình phông chữ tùy chỉnh nếu cần
+  # fonts:
+  #   - family: CustomFont
+  #     fonts:
+  #       - asset: fonts/CustomFont-Regular.ttf
+  #       - asset: fonts/CustomFont-Bold.ttf
+  #         weight: 700
