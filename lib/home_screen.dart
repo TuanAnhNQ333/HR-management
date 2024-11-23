@@ -5,7 +5,6 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_vector_icons/flutter_vector_icons.dart';
-import 'package:hrm_app/events_screen.dart';
 import 'worker_details_screen.dart';
 
 class HomeScreen extends StatefulWidget {
